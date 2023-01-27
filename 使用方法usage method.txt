@@ -1,0 +1,15 @@
+先运行.exe文件以安装betterNCM
+将UnblockCloudMusic_0.1.7.plugin文件放在安装路径的plugins文件夹下(路径比如C:\betterNCM\plugins)
+将main.js和manifest.json文件放在安装路径的plugins_runtime文件夹下(路径比如C:\betterNCM\plugins_runtime)
+打开网易云音乐，右上设置旁边有个白色或黑色(取决于字体颜色)的网易云图标，点击
+左侧插件目录有个UnblockCloudMusic，点击
+点击远程版本旁边的安装，安装完毕后重启网易云音乐
+完成
+
+Run the. exe file first to install betterNCM
+UnblockCloudMusic_ 0.1.7.plugin file is placed in the plugins folder of the installation path (such as C:  betterNCM  plugins)
+Place main.js and manifest.json files in plugins in the installation path_ Under the runtime folder (such as C:  betterNCM  plugins_runtime)
+Open NetEase Cloud Music. There is a white or black (depending on the font color) NetEase Cloud icon next to the upper right setting. Click
+There is an UnblockCloudMusic in the plug-in directory on the left. Click
+Click Install next to the remote version, and restart Netease Cloud Music after installation
+complete
