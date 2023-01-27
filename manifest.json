@@ -1,0 +1,12 @@
+{
+    "manifest_version": 1,
+    "name": "UnblockCloudMusicInstaller",
+    "version": "0.1.7",
+    "injects": {
+        "Main": [
+            {
+                "file": "main.js"
+            }
+        ]
+    }
+}
