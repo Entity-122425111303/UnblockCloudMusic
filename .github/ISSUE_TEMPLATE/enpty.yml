@@ -1,0 +1,17 @@
+name: 空白问题模板
+description: 空白问题模板
+title: "[e]:  在此输入标题"
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        在提交该 Issue 之前，请确保：
+        + 你的问题不适用上面的模板
+  - type: textarea
+    id: description
+    attributes:
+      label: 问题描述
+      description: 简明扼要地描述该问题是什么
+    validations:
+      required: true
