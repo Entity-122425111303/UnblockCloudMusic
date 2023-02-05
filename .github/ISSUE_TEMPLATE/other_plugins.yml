@@ -1,0 +1,30 @@
+name: 需要其他  已下架  插件
+description: 提交一个需要的  已下架  插件 
+title: "[OP]:  在此输入插件名称或功能"
+labels: [help wanted]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        在提交该 Issue 之前，请确保：
+        + 有这样的插件
+        + 插件已下架
+        + 并且是betterNCM的插件
+  - type: textarea
+    id: description
+    attributes:
+      label: 插件 描述
+      description: 简明扼要地描述该插件的名称或功能。
+    validations:
+      required: false
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 屏幕截图
+      description: 如果有，请添加屏幕截图以帮助寻找插件。
+      value: 
+  - type: textarea
+    id: extra-info
+    attributes:
+      label: 补充
+      description: 在此添加关于该插件的任何其他信息。
